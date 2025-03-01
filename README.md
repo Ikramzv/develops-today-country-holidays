@@ -30,3 +30,9 @@ yarn start:dev
 ## API Documentation
 
 API documentation is available via Swagger UI at `/docs` when the application is running.
+
+## Running e2e tests
+
+```bash
+yarn test:e22
+```
