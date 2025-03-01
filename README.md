@@ -15,11 +15,7 @@ cd country-holidays-api
 yarn install
 ```
 
-3. Create a `.env` file in the root directory:
-
-```env
-PORT=3000
-```
+3. Create a `.env` file in the root directory, then copy/paste .env.example to the .env, replace placeholders with your actual values
 
 ## Running the Application
 
