@@ -34,5 +34,5 @@ API documentation is available via Swagger UI at `/docs` when the application is
 ## Running e2e tests
 
 ```bash
-yarn test:e22
+yarn test:e2e
 ```
